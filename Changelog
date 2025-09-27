@@ -1,7 +1,0 @@
--StellarMC 20251509
-
--Better file-mechanics to help in installation process.
-
--Fixed a bug where if launching version 1.19.4-1.21.8, the launcher crashes.
-
--Switched the update naming scheme to the day the version is released (20251509= release date: 2025-15-09)
