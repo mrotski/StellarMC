@@ -1,4 +1,0 @@
-java8=C:\StellarMC install kit\Natives\Java\jre1.8.0_461\bin\javaw.exe
-java21=C:\StellarMC install kit\Natives\Java\jdk-21\bin\javaw.exe
-lwjgl_321=C:\StellarMC install kit\Natives\lwjgl-3.2.1\lwjgl-release-3.2.1
-lwjgl_331=C:\StellarMC install kit\Natives\lwjgl-3.3.1
